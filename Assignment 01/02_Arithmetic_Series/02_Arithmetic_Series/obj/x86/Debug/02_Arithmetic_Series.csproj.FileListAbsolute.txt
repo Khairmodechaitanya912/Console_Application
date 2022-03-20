@@ -1,0 +1,4 @@
+E:\C#\Console Application\02_Arithmetic_Series\02_Arithmetic_Series\bin\Debug\02_Arithmetic_Series.exe
+E:\C#\Console Application\02_Arithmetic_Series\02_Arithmetic_Series\bin\Debug\02_Arithmetic_Series.pdb
+E:\C#\Console Application\02_Arithmetic_Series\02_Arithmetic_Series\obj\x86\Debug\02_Arithmetic_Series.exe
+E:\C#\Console Application\02_Arithmetic_Series\02_Arithmetic_Series\obj\x86\Debug\02_Arithmetic_Series.pdb
