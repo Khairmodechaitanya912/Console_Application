@@ -1,0 +1,4 @@
+E:\C#\Console Application\07_Trailing_Zeroes_In_N!\07_Trailing_Zeroes_In_N!\bin\Debug\07_Trailing_Zeroes_In_N!.exe
+E:\C#\Console Application\07_Trailing_Zeroes_In_N!\07_Trailing_Zeroes_In_N!\bin\Debug\07_Trailing_Zeroes_In_N!.pdb
+E:\C#\Console Application\07_Trailing_Zeroes_In_N!\07_Trailing_Zeroes_In_N!\obj\x86\Debug\07_Trailing_Zeroes_In_N!.exe
+E:\C#\Console Application\07_Trailing_Zeroes_In_N!\07_Trailing_Zeroes_In_N!\obj\x86\Debug\07_Trailing_Zeroes_In_N!.pdb
