@@ -1,0 +1,5 @@
+E:\C#\Console Application\01_Pattern_From_Given_No\01_Pattern_From_Given_No\bin\Debug\01_Pattern_From_Given_No.exe
+E:\C#\Console Application\01_Pattern_From_Given_No\01_Pattern_From_Given_No\bin\Debug\01_Pattern_From_Given_No.pdb
+E:\C#\Console Application\01_Pattern_From_Given_No\01_Pattern_From_Given_No\obj\x86\Debug\01_Pattern_From_Given_No.exe
+E:\C#\Console Application\01_Pattern_From_Given_No\01_Pattern_From_Given_No\obj\x86\Debug\01_Pattern_From_Given_No.pdb
+E:\C#\Console Application\01_Pattern_From_Given_No\01_Pattern_From_Given_No\obj\x86\Debug\01_Pattern_From_Given_No.csprojResolveAssemblyReference.cache
