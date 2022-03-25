@@ -1,0 +1,4 @@
+E:\C#\Console Application\05_Perfect_Sq_No\05_Perfect_Sq_No\bin\Debug\05_Perfect_Sq_No.exe
+E:\C#\Console Application\05_Perfect_Sq_No\05_Perfect_Sq_No\bin\Debug\05_Perfect_Sq_No.pdb
+E:\C#\Console Application\05_Perfect_Sq_No\05_Perfect_Sq_No\obj\x86\Debug\05_Perfect_Sq_No.exe
+E:\C#\Console Application\05_Perfect_Sq_No\05_Perfect_Sq_No\obj\x86\Debug\05_Perfect_Sq_No.pdb
