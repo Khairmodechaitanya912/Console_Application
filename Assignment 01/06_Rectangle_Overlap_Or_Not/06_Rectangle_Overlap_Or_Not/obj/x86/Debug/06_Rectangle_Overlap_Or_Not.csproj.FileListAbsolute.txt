@@ -1,0 +1,4 @@
+E:\C#\Console Application\06_Rectangle_Overlap_Or_Not\06_Rectangle_Overlap_Or_Not\bin\Debug\06_Rectangle_Overlap_Or_Not.exe
+E:\C#\Console Application\06_Rectangle_Overlap_Or_Not\06_Rectangle_Overlap_Or_Not\bin\Debug\06_Rectangle_Overlap_Or_Not.pdb
+E:\C#\Console Application\06_Rectangle_Overlap_Or_Not\06_Rectangle_Overlap_Or_Not\obj\x86\Debug\06_Rectangle_Overlap_Or_Not.exe
+E:\C#\Console Application\06_Rectangle_Overlap_Or_Not\06_Rectangle_Overlap_Or_Not\obj\x86\Debug\06_Rectangle_Overlap_Or_Not.pdb
